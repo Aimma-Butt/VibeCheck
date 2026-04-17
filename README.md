@@ -1,13 +1,12 @@
 # Open Source Tool VibeCheck
-
-An emotional assistant for mental health and meme relief.
+## An emotional assistant for mental health and meme relief.
 
 Vibe Check is a full-stack web application that helps users understand their mood using Sentiment Analysis and receive personalized recommendations to improve their vibe.
 
 The platform combines mental wellness + entertainment + humor by offering:
-🧠 Mood detection from user input
-💡 Personalized mental health recommendations
-😂 Meme suggestions to lighten the mood
+* 🧠 Mood detection from user input
+* 💡 Personalized mental health recommendations
+* 😂 Meme suggestions to lighten the mood
 🎵 Music recommendations
 📚 Book recommendations
 🎬 Movie recommendations
