@@ -7,7 +7,7 @@ The platform combines mental wellness + entertainment + humor by offering:
 * 🧠 Mood detection from user input
 * 💡 Personalized mental health recommendations
 * 😂 Meme suggestions to lighten the mood
-🎵 Music recommendations
+- 🎵 Music recommendations
 📚 Book recommendations
 🎬 Movie recommendations
 🔐 User authentication system
