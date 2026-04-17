@@ -46,3 +46,7 @@ Open new terminal:
 
 Runs backend on:
 http://localhost:5000
+
+
+
+If you like the project, please star the repository! 
