@@ -1,0 +1,127 @@
+VibeCheck Software License
+Version 1.0 – Non-Commercial Use Only
+
+Copyright (c) 2026 Aimma Butt
+
+---
+
+## 1. Overview
+
+This software and associated files (the "Software") are provided under a non-commercial, source-available license.
+
+You are permitted to use, and share this Software for non-commercial purposes only, subject to the terms below.
+
+---
+
+## 2. Permissions
+
+You are allowed to:
+
+* Use the Software for personal, academic, and research purposes
+* Copy and redistribute the Software
+* Share improvements with the community
+
+These permissions are granted free of charge, worldwide.
+
+---
+
+## 3. Non-Commercial Restriction
+
+You may NOT use this Software for commercial purposes.
+
+Commercial use includes, but is not limited to:
+
+* Selling the Software or derivative works
+* Offering the Software as part of a paid product or service
+* Using the Software in SaaS, cloud platforms, or APIs for paying users
+* Integrating the Software into commercial systems or enterprise solutions
+* Any use intended for monetary gain or business advantage
+
+If your use case involves revenue, payment, or business activity, it is considered commercial.
+
+---
+
+## 4. Commercial Licensing
+
+Commercial use is strictly prohibited without explicit permission.
+
+To obtain a commercial license, contact:
+
+Email: aimmabutt111@gmail.com
+
+Commercial licenses may be granted for:
+
+* SaaS and cloud deployment
+* Enterprise integration
+* Proprietary products
+* Paid legal-tech platforms
+
+---
+
+## 5. Attribution
+
+If you use or distribute this Software, you must:
+
+* Give credit to the original author (Aimma Butt)
+* Include a reference to this license
+* Indicate if changes were made
+
+Example attribution:
+
+"VibeCheck – Developed by Aimma Butt (2026)"
+
+---
+
+## 6. Distribution of Modifications
+
+If you distribute modified versions of the Software:
+
+* You must clearly document your changes
+* You must retain this license
+* You may NOT remove original attribution
+
+---
+
+## 7. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+This includes, but is not limited to:
+
+* Merchantability
+* Fitness for a particular purpose
+* Non-infringement
+
+---
+
+## 8. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+---
+
+## 9. Termination
+
+This license is automatically terminated if you violate any of its terms.
+
+Upon termination, you must immediately stop using and distributing the Software.
+
+---
+
+## 10. Governing Law
+
+This license shall be governed by the laws applicable in Pakistan.
+
+---
+
+## 11. Contact
+
+For licensing inquiries:
+
+Email: aimmabutt111@gmail.com
+GitHub: https://github.com/Aimma-Butt/VibeCheck
+
+---
+
+© 2026 Aimma Butt | National University of Sciences and Technology (NUST), Islamabad, Pakistan
+All rights reserved.
