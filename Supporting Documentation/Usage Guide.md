@@ -14,7 +14,7 @@ http://localhost:5173
 ---
 
 # 🔐 Step 1: Create Account / Login
-When the app opens:
+When the app opens:  
 ✅ New users can create an account
 ✅ Existing users can log in securely
 Authentication is powered by **Firebase**.
