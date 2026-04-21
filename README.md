@@ -1,6 +1,7 @@
-# Open Source Tool VibeCheck
-## An emotional assistant for mental health and meme relief.
+# Open Source Tool VibeCheck 😎
+## An emotional assistant for mental health clarity and meme relief.
 
+## 🌟 Overview
 Vibe Check is a full-stack web application that helps users understand their mood using Sentiment Analysis and receive personalized recommendations to improve their vibe.
 
 The platform combines mental wellness + entertainment + humor by offering:
@@ -17,6 +18,36 @@ Mental health support tools often feel too serious or difficult to approach.
 Vibe Check creates a more engaging experience by combining emotional support with entertainment and humor.
 It helps users feel understood while also giving them something uplifting.
 
+## ✨ Features
+### 🧠 Mood Detection
+Analyzes user text using sentiment analysis
+Detects emotions like:
+Happy 😊
+Sad 😔
+Stressed 😓
+Angry 😡
+Motivated 💪
+
+### 💡 General Recommendations
+Based on mood, users receive:
+Relaxation tips 🌿
+Productivity suggestions 📈
+Self-care activities 🧘
+Motivation boosters 🔥
+
+### 😂 Meme Generator
+Generates funny meme content
+Helps reduce stress instantly
+
+### 🎵 Entertainment Suggestions
+Music recommendations 🎧
+Movie suggestions 🎬
+Book recommendations 📚
+
+### 🔐 Authentication
+Firebase-based login/signup system
+Secure user sessions
+
 ## 🛠️ Tech Stack
 ### 1. Frontend(client):
 * React.js
@@ -28,22 +59,24 @@ It helps users feel understood while also giving them something uplifting.
 * Firebase
 
 ## ⚙️ Installation Guide
-
 ### 1️⃣ Frontend Setup
 - cd client
 - npm install
 - npm run dev
 
 ### 2️⃣ Backend Setup
-
 Open new terminal:
 - cd server
 - pip install -r requirements.txt
 - python app.py
 
-Runs on:
-http://localhost:5173
+## ⚠️ Disclaimer
+Vibe Check is a wellness support tool and not a replacement for professional mental health care.
 
+If needed, please consult a qualified professional.
 
+## ⭐ Support
+If you like this project:
+⭐ Star the repo
+📢 Share it
 
-If you like the project, please star the repository! 
